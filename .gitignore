@@ -1,5 +1,6 @@
 compile.sh
 atcoder.sh
+move.sh
 .vscode
 compile
 .DS_Store
