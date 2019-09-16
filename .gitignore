@@ -1,7 +1,10 @@
 compile.sh
 atcoder.sh
+git.sh
 move.sh
 .vscode
 compile
 .DS_Store
 init
+
+atcoder/ABC072/compile/*
