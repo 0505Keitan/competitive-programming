@@ -4,5 +4,5 @@ git.sh
 move.sh
 .vscode
 compile
-.DS_Store
+**/.DS_Store
 init
