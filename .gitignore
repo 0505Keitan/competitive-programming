@@ -3,6 +3,6 @@ atcoder.sh
 git.sh
 move.sh
 .vscode
-compile
+**/compile
 **/.DS_Store
 init
