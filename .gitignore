@@ -1,7 +1,4 @@
-compile.sh
-atcoder.sh
-git.sh
-move.sh
+**/*.sh
 .vscode
 **/compile
 **/.DS_Store
